@@ -17,7 +17,7 @@ except ImportError:
 
 install_requires = [
     'numpy',
-    'tensorflow-gpu==1.4.0',
+    'tensorflow-gpu==2.3.1',
     'tensorflow==1.3.0',
     'tweepy',
     'docopt',
